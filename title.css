@@ -1,0 +1,28 @@
+.bear{
+    float: left;
+    width: 200px;
+    margin-right: 3rem;
+    position: relative;
+    top: 60px;
+  
+    
+}
+
+body{
+    border: 2px solid blue;
+    height: 300px;
+}
+
+h1{
+    position: relative;
+    top: 60px;
+   
+   
+    
+}
+
+.part{
+    position: relative;
+    top: 60px;
+}
+
